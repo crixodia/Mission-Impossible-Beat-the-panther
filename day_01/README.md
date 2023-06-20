@@ -11,7 +11,6 @@ Escribe un programa que te permita validar números de tarjeta de crédito utili
   - [Ejecución](#ejecución)
   - [Resultados](#resultados)
 
-
 ## Contexto
 
 Para esto, vamos a hacer uso del algoritmo de módulo 10 o también conocido como Fórmula de Luhn. Este algoritmo se aplica para validar diversidad de números de verificación, tarjetas de débito o crédito e incluso números IMEI.
