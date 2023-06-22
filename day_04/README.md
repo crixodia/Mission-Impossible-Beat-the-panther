@@ -1,4 +1,4 @@
-# Día 4: Suma en Strings
+# Día 4: Límites
 
 El programador debe ingeniar una manera de ingresar una pareja de límites (inferior y superior).
 Debe ser capaz de manejar varios casos que consisten en parejas de límites. (ejemplo 1-10,20-30,...)
