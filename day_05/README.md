@@ -71,4 +71,4 @@ python main.py "12345678aA "
 Invalid password
 ```
 
-[crixodia](https://instagram.com/crixodia)
+Autor: [crixodia](https://instagram.com/crixodia)
