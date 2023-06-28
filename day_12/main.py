@@ -21,6 +21,7 @@ if __name__ == "__main__":
         print("Usage: python main.py <word1> <word2>")
         print("Usage: python main.py Mary Army")
         sys.exit(1)
+
     word1 = sys.argv[1]
     word2 = sys.argv[2]
     print(is_anagram(word1, word2))

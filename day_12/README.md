@@ -45,20 +45,24 @@ python main.py "<palabra 1>" "<palabra 2>"
 
 ```bash
 python main.py Mary Army
+
 True
 ```
 
 ```bash
 python main.py Mary Mary
+
 False
 ```
 
 ```bash
 python main.py Mary Mari
+
 False
 ```
 
 ```bash
 python main.py Mary Maryy
+
 False
 ```
