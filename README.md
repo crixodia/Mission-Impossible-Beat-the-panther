@@ -9,3 +9,7 @@
 7. [Validación de Correo Electrónico](day_07/README.md)
 8. [Contar palabras](day_08/README.md)
 9. [Encontrar la ruta más corta en un laberinto](day_09/README.md)
+10. [Permutaciones](day_10/README.md)
+11. [Encriptación](day_11/README.md)
+12. [Anagramas](day_12/README.md)
+13. [El tesoro escondido](day_13/README.md)

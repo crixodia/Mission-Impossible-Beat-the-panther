@@ -1,4 +1,4 @@
-# Día 10: Combinatoria
+# Día 10: Permutaciones
 
 Hemos podido interceptar varios textos,entre ellos una localización, pero las letras de algunas palabras están mezcladas. Deberás generar un código que genere todas las posibles palabras de las letras dadas:
 
@@ -12,7 +12,7 @@ Las reglas de la gramática son:
 - Generar todas las posibles palabras aunque estas no sigan las reglas de la gramática.
 - El ingreso puede ser por consola o con los datos quemados en el código.
 
-- [Día 10: Combinatoria](#día-10-combinatoria)
+- [Día 10: Permutaciones](#día-10-permutaciones)
   - [Contexto](#contexto)
   - [Solución](#solución)
   - [Ejecución](#ejecución)
