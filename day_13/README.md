@@ -2,8 +2,6 @@
 
 Eres un valiente explorador en busca de un tesoro escondido en una isla misteriosa. Para encontrar el tesoro, debes seguir una serie de instrucciones y llegar al destino final.
 
-Instrucciones:
-
 - Partiendo desde tu posición inicial (0, 0), sigue las siguientes coordenadas: (2, 3), (-1, 5), (4, -2).
 - Calcula la posición final sumando todas las coordenadas.
 - Tu tarea es escribir un programa que tome estas instrucciones y calcule la posición final del tesoro.
