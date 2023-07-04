@@ -2,8 +2,6 @@
 
 Se le da una cadena y debe validar si es un número romano válido. Si es válido, imprima True. De lo contrario, escriba Falso. Intente crear una expresión regular para un número romano válido.
 
-Reglas:
-
 - EL número debe estar entre 1 y 3999 (ambos incluídos)
 
 Input: CDXXI
