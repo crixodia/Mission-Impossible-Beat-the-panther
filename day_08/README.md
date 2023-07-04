@@ -13,7 +13,7 @@ Este reto es relativamente sencillo. Simplemte se crea una función que haga spl
 
 ```python
 def count_words(text):
-    return len(text.split())
+    return len(text.split()) 
 ```
 
 Otra forma de hacerlo es recorrer la cadena de texto y contar los espacios.
