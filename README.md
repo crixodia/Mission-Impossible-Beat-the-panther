@@ -15,3 +15,6 @@
 13. [El tesoro escondido](day_13/README.md)
 14. [La Carrera de Tortugas](day_14/README.md)
 15. [El adivinador de números](day_15/README.md)
+16. [Diseño de peluches](day_16/README.md)
+17. [Números romanos](day_17/README.md)
+18. 
