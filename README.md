@@ -17,4 +17,6 @@
 15. [El adivinador de números](day_15/README.md)
 16. [Diseño de peluches](day_16/README.md)
 17. [Números romanos](day_17/README.md)
-18. 
+18. [Pasaportes](day_18/README.md)
+19. [Duplicados](day_19/README.md)
+20. 
