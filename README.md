@@ -19,4 +19,7 @@
 17. [Números romanos](day_17/README.md)
 18. [Pasaportes](day_18/README.md)
 19. [Duplicados](day_19/README.md)
-20. 
+20. [Número Faltante](day_20/README.md)
+21. [Matriz Transpuesta](day_21/README.md)
+22. [Validación de Cédula](day_22/README.md)
+23. 
