@@ -22,4 +22,4 @@
 20. [Número Faltante](day_20/README.md)
 21. [Matriz Transpuesta](day_21/README.md)
 22. [Validación de Cédula](day_22/README.md)
-23. 
+23. [Red de Caminos](day_23/README.md)
