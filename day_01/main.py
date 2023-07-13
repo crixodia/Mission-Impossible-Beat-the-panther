@@ -2,6 +2,7 @@ import sys
 
 SYMBOLS = "0123456789"
 
+
 def is_valid_card(number: str) -> bool:
     number = number.strip().replace(" ", "")
 

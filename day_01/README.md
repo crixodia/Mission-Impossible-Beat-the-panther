@@ -3,6 +3,7 @@
 Eres un espía y acabas de extraer el número de tarjeta de crédito de María;
 necesitas verificar si el número de tarjeta de crédito es válido antes de realizar una transacción e infiltrarte en la mansión del villano.
 
+
 Escribe un programa que te permita validar números de tarjeta de crédito utilizando el algoritmo de Luhn.
 
 - [Día 1: Luhn](#día-1-luhn)
