@@ -1,0 +1,38 @@
+{
+    "easy": [
+        "perro",
+        "gato",
+        "casa",
+        "sol",
+        "luna",
+        "mesa",
+        "silla",
+        "cama",
+        "piso",
+        "calle"
+    ],
+    "medium": [
+        "computadora",
+        "celular",
+        "television",
+        "refrigerador",
+        "lavadora",
+        "estufa",
+        "licuadora",
+        "ventana",
+        "puerta",
+        "cortina"
+    ],
+    "hard": [
+        "automóvil",
+        "bicicleta",
+        "motocicleta",
+        "helicóptero",
+        "avión",
+        "barco",
+        "camión",
+        "camioneta",
+        "autobus",
+        "tren"
+    ]
+}
