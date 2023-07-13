@@ -1,5 +1,6 @@
 # Día 5: Validación de Contraseña
 
+
 Hackeaste la contraseña del laboratorio secreto del villano. Escribe un programa que te permita verificar si una contraseña cumple con lo siguiente:
 
 1. La contraseña debe tener al menos 8 caracteres.

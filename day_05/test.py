@@ -1,4 +1,3 @@
-import jiji
 import unittest
 
 

@@ -1,7 +1,6 @@
 import sys
 import re
 
-
 def is_valid(password: str) -> bool:
     if len(password) < 8:
         return False
