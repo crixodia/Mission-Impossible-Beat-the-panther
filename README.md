@@ -23,3 +23,6 @@
 21. [Matriz Transpuesta](day_21/README.md)
 22. [Validación de Cédula](day_22/README.md)
 23. [Red de Caminos](day_23/README.md)
+24. [Ahorcado](day_24/README.md)
+
+[Gdql/#vl#ohhv#hvwr#hv#sdud#txh#vhsdv#txh#wh#txlhur1#Hv#xqd#wrqwhuðd/#shur#ph#dqlpì#d#hvwr#judfldv#d#wl1#💙](jiji.py)
